@@ -2,7 +2,7 @@
 
 - 
   <img src="https://i.pinimg.com/originals/b2/d8/80/b2d880ccf382f298a6939c7eb0ab36bd.gif" alt="gif" width="40"/>
-</p>  Atualmente estou aprendendo: <strong>JavaScript e TypeScript</strong> 
+</p>Atualmente estou aprendendo: <strong>JavaScript e TypeScript</strong> 
 
 <div align="center">
 
