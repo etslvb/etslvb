@@ -1,10 +1,8 @@
 # Ericha Barbosa <img src="https://i.pinimg.com/originals/03/78/f0/0378f01f2ace7b84bf01c7bb28b50df1.gif" width="30px" />
 
 - 
-  <img src="https://i.pinimg.com/originals/b2/d8/80/b2d880ccf382f298a6939c7eb0ab36bd.gif" alt="gif" width="20"/>
-</p>
-
- Atualmente estou aprendendo: <strong>JavaScript e TypeScript</strong> 
+  <img src="https://i.pinimg.com/originals/b2/d8/80/b2d880ccf382f298a6939c7eb0ab36bd.gif" alt="gif" width="40"/>
+</p>  Atualmente estou aprendendo: <strong>JavaScript e TypeScript</strong> 
 
 <div align="center">
 
