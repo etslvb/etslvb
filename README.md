@@ -10,8 +10,6 @@
   <span style="font-size: 16px;">Atualmente estou <b>cursando Análise e Desenvolvimento de Sistemas.</b></span>
 </p>
 
-<div align="center">
-
   <!-- LinkedIn -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericha-barbosa-092473292/)
 
