@@ -2,7 +2,8 @@
 - 🚀 Atualmente estou aprendendo: <strong>JavaScript e TypeScript</strong> 
 
 <div align="center">
-  ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:erichabarbosa@hotmail.com)
+  <!-- Outlook -->
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:erichabarbosa@hotmail.com)
 
 
   <a href="#" alt="Linkedin">
