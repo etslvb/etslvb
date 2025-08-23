@@ -2,7 +2,7 @@
  
 <p>
  - <img src="https://i.pinimg.com/originals/b2/d8/80/b2d880ccf382f298a6939c7eb0ab36bd.gif" alt="gif" width="60" style="vertical-align: middle;"/>
-  <span style="font-size: 8px;">Atualmente estou aprendendo: <b>JavaScript</b> e <b>TypeScript</b></span>
+  <span style="font-size: 2px;">Atualmente estou aprendendo: <b>JavaScript</b> e <b>TypeScript</b></span>
 </p>
 
 <div align="center">
