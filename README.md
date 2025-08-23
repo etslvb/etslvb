@@ -10,9 +10,6 @@
   <span style="font-size: 16px;">Atualmente estou <b>cursando Análise e Desenvolvimento de Sistemas.</b></span>
 </p>
 
-  <!-- LinkedIn -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericha-barbosa-092473292/)
-
 ## 🎓 Formações e 🏅 Certificações
 
 <details>
@@ -22,5 +19,11 @@
   _Escola Tec. Estadual Professor Lucilo Ávila Pessoa. • 2020 — 2022 • Recife/PE_  
   **Destaques:** Monitora do Laboratório de Informática
 </details>
+
+<details>
+  <summary><strong>🏅 Certificações</strong></summary>
+
+   <!-- LinkedIn -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericha-barbosa-092473292/)
 
 </div>
