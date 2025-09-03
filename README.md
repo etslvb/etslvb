@@ -1,5 +1,6 @@
 # <img src="https://i.pinimg.com/originals/4f/4d/0d/4f4d0d012f26a14cba957da51a06a6bb.gif" alt="gif-estudante" width="30"/> Olá, eu sou a Ericha Barbosa!  
 
+<img src="https://i.pinimg.com/736x/21/ea/3a/21ea3a62f7f6d20ef4630eb323daad6a.jpg" width="30"/> 
 <img src="https://i.pinimg.com/originals/fd/7e/ea/fd7eead885ce1f0bba7cb2df6e3bf5c5.gif" alt="gif-estudante" width="30"/>  Estudante de **Análise e Desenvolvimento de Sistemas** (1º período)
 
 💡 Atualmente aprendendo **HTML** e **JavaScript**  
