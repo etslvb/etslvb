@@ -1,6 +1,6 @@
 # <img src="https://i.pinimg.com/originals/4f/4d/0d/4f4d0d012f26a14cba957da51a06a6bb.gif" alt="gif-estudante" width="30"/> Olá, eu sou a Ericha Barbosa!  
 
-<![banner](Gaming Twitch Banner in Neon Green Grey Player One Style.pngGaming Twitch Banner in Neon Green Grey Player One Style.png) width="800"/> 
+![banner](Gaming Twitch Banner in Neon Green Grey Player One Style.pngGaming Twitch Banner in Neon Green Grey Player One Style.png) width="800"/> 
 
 ---
 
